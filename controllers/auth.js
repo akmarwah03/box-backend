@@ -36,6 +36,7 @@ exports.signupUser = (req, res, next) => {
 };
 
 exports.signinUser = (req, res, next) => {
+  console.log(req.body);
   const email = req.body.email;
   const password = req.body.password;
   UserModel.findOne({ email })
