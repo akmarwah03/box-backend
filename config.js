@@ -1,0 +1,14 @@
+const config = {
+  "boxAppSettings": {
+    "clientID": "k3kjjewrm716pepjti87tvr38p0j3jd6",
+    "clientSecret": "Pb0HS1YIMraMr82FKzx6jBKJriioHH93",
+    "appAuth": {
+      "publicKeyID": "bldykph0",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQI++SrqpLpXM4CAggA\nMBQGCCqGSIb3DQMHBAiwb3VNi0q51ASCBMgoRkpTNf2p5Y7sdKf4xndXf9t0jciG\nForijshiwb7ajrLxGZwwL4aSmxSBgg2Klu88RCxM21mT7I3tFdIwN8XVAtTWK36o\n99G5l79dhbUGroppCMsNVHnctsk7pQPu3nmMFDBYD4hgRfgMGf6a/lcqCiXrZf6T\njImn5ecsyQMPLUuFrnAsObLede2fxpikCTYteYsJ8uB5zDgHNaxkLvUs4IfGhcPz\noTdhRY6LZDVAPOo0b4TPR9BaZH+oZWNwzyEFpHHNBONazrSPHInG+oc+2i2ftMKX\nTQ7qhy6o+r8Nqi1DmzDwIlnGxjMQZ54xwCV51PaBzawpatBgtfQD8zXje4AsLXIh\n0ce/oIUv+Y6SbsqWn/eICmYTbQLsrjaEvqje76fCF2g2on3aDv1yylp0jmSVBiKg\n5OmXRnB1RePZ/Ui9TCzhRSdMr3uhJCkmrtzwja7tW9R1Akaa+lM1RORDnnIr4hNN\nEoskupCAlS4K7F2VYPeJMdM9MzfOFQh878UzFL2g52lIgn8nqYOFsYHet1usCykL\nJ/4THHyFyb0OJjSqwkIyUw+C9hXlvFmQTQEMY9LDyhtCYtyIxvw1QJBNzfQSlAto\nuylxDmKcyTWN3bzyrpyr6SfZDraAqfF6h7DFv3e+u33SHtwE72e5zHOVbAWDD3Wh\nKpR2g4Lkl0D/kl0+leiiEWzjkNTJdyXgIopKrSGxY7Q5YG8mudn5ajJAaPWkUsJO\nOQqlH34QmHyBWkRTd4Ly+ICF8GKTLRAYixXQAvgI1+Ezng/JZA8Yk8V5mVIE4mOD\nilRSr74Lilk3XYSdyuT9TYZJ3HXu9GOEidPUYioVbm3cQ925tsdyhPHtiKxtdxSL\nQ6Epipt9h2cI+3p0+jt2lzSSrlwz0s2AKmZLoK3R2wAT/z/916IBnXV4PCVdD8/8\nFffH3AvtGQufWwshTQ46h2RlTF1KZcfIxRB/La3tjI2J9VGrVyvat4C9irswmumo\nHerkUdhCA174e5Jpm+dw7dHnOVaIOyQdTFrsNmS1TNqxxvhYTXAGJgQ3z3u3veI4\nzPJ5/V4Va6qso70ydGK+d699fHIf6a2ZTaFvsh8qYATScpgcZina8UMpp5LLjPCh\nodbrkWDvfxIr1nRyqfkFQxCbKekPZy8rg9mUA2Y7hY6MeyecbIR0YeyhM9FUrDh8\nXpk0/fnjji5txHO5zYm9kO4lZGSS3UwIWwEqQUwbMGJUXvTByoR8a8qjGUfUioYO\nUZfrj6HcwPWKxW4Xq3D934x9lbt0ELDuJwLLelLruxlRTziATkjlp8b35JkmeIA7\n0poK9/yZNJt+DJcnZxfL1OeBo/9ZIhM97SCDMILeE+nj9FZEbJw7dRNTTchP7nIX\na8ioie6LlLbEnRum/7tAcsy0dpHVR3oG4ojPwafJJy8T1DD2uzB5bGlj6hhxuM7J\n/zotacaN2M9z16Rw5ZiHXIx9aGyHpJ7FWrrnftP7CrFwtW5Pn3p+Xn4IIUw10JbA\nsWeqpgTS35urdS2YaX5n88usg+oRSsnpBxv2ePnJrnFX3bj8XR/0jHK8x2vV1w+f\n8hLIdHW9O1penTwHRPi++Gbck6cBMygjDbDwyup+JhAuYFT53YPMfi3l0ZdTI/jO\nyLY=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "e873f784a114f3465bc502b376231880"
+    }
+  },
+  "enterpriseID": "867433364"
+}
+
+module.exports = config;
