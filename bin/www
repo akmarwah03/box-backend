@@ -8,8 +8,6 @@ const app = require("../app");
 const debug = require("debug")("box-backend:server");
 const http = require("http");
 const mongoose = require("mongoose");
-const BoxSDK = require('box-node-sdk');
-const config = require('../config');
 
 /**
  * Get port from environment and store in Express.
@@ -38,14 +36,6 @@ mongoose
 
 server.on("error", onError);
 server.on("listening", onListening);
-
-
-/**
- * Connect Box
- */
-const sdk = BoxSDK.getPreconfiguredInstance(config);
-const client = sdk.getAppAuthClient('enterprise');
-
 
 /**
  * Event listener for HTTP server "error" event.
